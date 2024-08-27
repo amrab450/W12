@@ -1,0 +1,56 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "name": "Team 1",
+      "players": []
+    },
+    {
+      "id": 2,
+      "name": "Team 2",
+      "players": []
+    },
+    {
+      "name": "FC FAR",
+      "league": "Premier League",
+      "id": 3
+    },
+    {
+      "name": "FC FAR",
+      "league": "Premier League",
+      "id": 4
+    },
+    
+    {
+      "name": "AJAX",
+      "league": "Premier League",
+      "id": 70
+    },
+    {
+      "name": "AJAX",
+      "league": "Premier League",
+      "id": 71
+    }
+  ],
+  "players": [
+    {
+      "id": 1,
+      "name": "Player 1",
+      "players": []
+    },
+    {
+      "id": 2,
+      "name": "Player 2",
+      "players": []
+    },
+   { 
+
+  "matches": [
+    {
+      "id": 1,
+      "team1Id": 1,
+      "team2Id": 2,
+      "date": "2022-01-01"
+    }
+  ]
+}
